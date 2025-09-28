@@ -1,0 +1,19 @@
+.body {
+    background-color: aquamarine;
+}
+
+.cor-de-texto{
+    color: rgb(42, 167, 55);
+    
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+.titulo{
+    background-color: black;
+    color: rgb(255, 240, 241);
+    border: 04px solid crimson;
+}
+
